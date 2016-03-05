@@ -1,0 +1,41 @@
+{
+    "room": "BalkanParty",
+    "author": "Cobra",
+    "css": "https://rawgit.com/MrAjdin/Files/master/css/styling.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": false,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#42A5DC",
+        "ambassador": "null",
+        "host": "#76FF03",
+        "cohost": "#76FF03",
+        "manager": "#76FF03",
+        "bouncer": "#76FF03",
+        "rdj": "#76FF03",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#777F92"
+    },
+    "images": {
+        "background": "https://i.imgur.com/ehYSnG3.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    }
+}

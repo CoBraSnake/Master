@@ -146,18 +146,6 @@
 #meh .bottom, #meh.selected {
   background: #c42e3b;
 }
-#meh {
-  margin-left: -1px;
-}
-#woot i {
-  background: url('http://i.imgur.com/5eU6OHQ.png'); 
-}
-#meh i {
-  background: url('http://i.imgur.com/3uSXauE.png');
-}
-#grab i {
-  background: url('http://i.imgur.com/9DCOayJ.png');
-}
 #vote .crowd-response .top i {
   position: relative;
   display: inline-block;

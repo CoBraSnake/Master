@@ -339,11 +339,11 @@
 #chat .mention.is-dj, 
 #chat .mention.is-staff {
   background: #0a0a0a !important;
-  background: linear-gradient(135deg,#005eff 0,#0a0a0a 13%,#0a0a0a 100%) !important;
+  background: linear-gradient(135deg,#76FF03 0,#0a0a0a 13%,#0a0a0a 100%) !important;
 }
 #chat .moderation, 
 #chat .moderation .from {
-  color: #0084ff;
+  color: #76FF03;
 }
 #chat .emote:nth-child(2n+1), 
 #chat .log:nth-child(2n+1), 
@@ -362,13 +362,13 @@
   position: relative !important;
   display: inline-block;
   top: 4px !important;
-  color: #006EFE;
+  color:#76FF03;
   font-weight: bold;
 }
 #playlist-menu .menu .row .count {
   top: 10px;
   right: 10px;
-  color: #3C37FF;
+  color:#76FF03;
   font-weight: bold;
 }
 #user-rollover.is-staff .info .role span {

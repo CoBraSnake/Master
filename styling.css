@@ -13,6 +13,9 @@
 #footer {
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
+#header {
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
 #playlist-button {
     background: linear-gradient(to bottom,#76FF03 0,#76FF03 100%);
 }

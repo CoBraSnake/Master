@@ -1,5 +1,5 @@
 {
-    "room": "BalkanParty",
+    "room": "TEST",
     "author": "Cobra",
     "css": "https://raw.githubusercontent.com/CoBraSnake/Master/master/css/styling.css",
     "rules": {
@@ -26,7 +26,7 @@
         "user": "#777F92"
     },
     "images": {
-        "background": "https://i.imgur.com/ehYSnG3.jpg",
+        "background": "null",
         "playback": null,
         "admin": null,
         "ambassador": null,

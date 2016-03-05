@@ -125,7 +125,7 @@
 #dj-button.is-wait .left,
 #dj-button.is-locked .left,
 #dj-button.is-full .left {
-  border-left: 3px solid #0A65D2;
+  border-left: 3px solid 01FF1A;
 }
 #dj-button {
   background: #222224;
@@ -135,10 +135,10 @@
   background: #222224;
 }
 #woot .bottom, #woot.selected {
-  background: #90ad2f;
+  background: #76FF03;
 }
 #grab .bottom, #grab.selected {
-  background: #aa74ff;
+  background: EB0000;
 }
 #grab {
   margin-left: -1px;
